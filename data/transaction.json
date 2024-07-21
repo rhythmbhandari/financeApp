@@ -1,0 +1,18 @@
+[
+    { "id": 1, "name": "Movie Tickets", "amount": 40, "date": "2024-07-01", "category": "Entertainment", "notes": "Watched a movie at the local cinema" },
+    { "id": 2, "name": "Monthly Rent", "amount": 750, "date": "2024-07-02", "category": "Housing", "notes": "Rent for the apartment" },
+    { "id": 3, "name": "Fitness Class", "amount": 30, "date": "2024-07-03", "category": "Health", "notes": "Yoga class subscription" },
+    { "id": 4, "name": "Electricity Bill", "amount": 65, "date": "2024-07-04", "category": "Utilities", "notes": "Electricity bill for the month" },
+    { "id": 5, "name": "New Shoes", "amount": 85, "date": "2024-07-05", "category": "Shopping", "notes": "Bought a new pair of running shoes" },
+    { "id": 6, "name": "Bookstore", "amount": 20, "date": "2024-07-06", "category": "Education", "notes": "Purchased books for the semester" },
+    { "id": 7, "name": "Gasoline", "amount": 50, "date": "2024-07-07", "category": "Transport", "notes": "Filled up the car tank" },
+    { "id": 8, "name": "Dinner Out", "amount": 55, "date": "2024-07-08", "category": "Food", "notes": "Dinner at a new restaurant" },
+    { "id": 9, "name": "Internet Bill", "amount": 35, "date": "2024-07-09", "category": "Utilities", "notes": "Monthly internet subscription" },
+    { "id": 10, "name": "Concert", "amount": 70, "date": "2024-07-10", "category": "Entertainment", "notes": "Tickets to a live concert" },
+    { "id": 11, "name": "Groceries", "amount": 90, "date": "2024-07-11", "category": "Groceries", "notes": "Weekly grocery shopping" },
+    { "id": 12, "name": "Subscription Box", "amount": 25, "date": "2024-07-12", "category": "Entertainment", "notes": "Monthly subscription box delivery" },
+    { "id": 13, "name": "Electric Scooter", "amount": 300, "date": "2024-07-13", "category": "Transport", "notes": "Purchased an electric scooter" },
+    { "id": 14, "name": "Art Supplies", "amount": 40, "date": "2024-07-14", "category": "Shopping", "notes": "Bought new art supplies" },
+    { "id": 15, "name": "Online Course", "amount": 60, "date": "2024-07-15", "category": "Education", "notes": "Enrolled in an online course for data science" }
+  ]
+  
